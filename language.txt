@@ -4,3 +4,10 @@ scala
 ruby
 javascript
 c++
+typescript
+java
+kotlin
+scala
+ruby
+javascript
+rust
